@@ -1,0 +1,21 @@
+Project Title:
+Social and Environmental Determinants of Health
+
+Team Members:
+Bechir, Will, Xin
+
+Project Description:
+Looking at 2014 Healthy Americas Survey – will examine relationships between health outcomes (e.g., chronic diseases, unhealthy behaviors, BMI), race, sex. Will also pull in national data about access to healthy foods, supermarket shortages, food deserts. May do Google places pulls to look at access to specific types of markets (e.g., organic).
+
+Research questions:
+How do health outcomes differ by demographic factors such as race and sex?
+How do health outcomes vary among individuals with differing access to supermarkets?
+
+Data sets:
+2014 Healthy Americas Survey
+Food Access Research Atlas
+Google Places
+
+Rough breakdown of tasks:
+Each member will read documentation for Healthy Americas and Food Access Research Atlas and come up with research questions to discuss next time.
+Will will look at what data is available by county to match with the Food Access Research Atlas
