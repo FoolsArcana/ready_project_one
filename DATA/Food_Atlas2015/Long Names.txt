@@ -1,0 +1,147 @@
+Census tract
+State
+County
+Urban tract
+Population, tract total
+Housing units, total
+Group quarters, tract with high share
+Group quarters, tract population residing in, number
+Group quarters, tract population residing in, share
+Low income and low access tract measured at 1 mile for urban areas and 10 miles for rural areas
+Low income and low access tract measured at 1/2 mile for urban areas and 10 miles for rural areas
+Low income and low access tract measured at 1 mile for urban areas and 20 miles for rural areas
+Low income and low access tract using vehicle access or low income and low access tract measured at 20 miles
+Vehicle access, tract with low vehicle access
+Low income tract
+Tract poverty rate
+Tract median family income
+Low access tract at 1 mile for urban areas and 10 miles for rural areas
+Low access tract at 1/2 mile for urban areas and 10 miles for rural areas
+Low access tract at 1 mile for urban areas and 20 miles for rural areas
+Low access tract at 1/2 mile
+Low access tract at 1 mile
+Low access tract at 10 miles
+Low access tract at 20 miles
+Low access tract using vehicle access and at 20 miles  in rural areas
+Low access, population at 1 mile for urban areas and 10 miles for rural areas, number
+Low access, population at 1/2 mile for urban areas and 10 miles for rural areas, number
+Low access, population at 1 mile for urban areas and 20 miles for rural areas, number
+Low access, low-income population at 1 mile for urban areas and 10 miles for rural areas, number
+Low access, low-income population at 1/2 mile for urban areas and 10 miles for rural areas, number
+Low access, low-income population at 1 mile for urban areas and 20 miles for rural areas, number
+Low access, population at 1/2 mile, number
+Low access, population at 1/2 mile, share
+Low access, low-income population at 1/2 mile, number
+Low access, low-income population at 1/2 mile, share
+Low access, children age 0-17 at 1/2 mile, number
+Low access, children age 0-17 at 1/2 mile, share
+Low access, seniors age 65+ at 1/2 mile, number
+Low access, seniors age 65+ at 1/2 mile, share
+Low access, White population at 1/2 mile, number
+Low access, White population at 1/2 mile, share
+Low access, Black or African American population at 1/2 mile, number
+Low access, Black or African American population at 1/2 mile, share
+Low access, Asian population at 1/2 mile, number
+Low access, Asian population at 1/2 mile, share
+Low access, Native Hawaiian or Other Pacific Islander population at 1/2 mile, number
+Low access, Native Hawaiian or Other Pacific Islander population at 1/2 mile, share
+Low access, American Indian or Alaska Native population at 1/2 mile, number
+Low access, American Indian or Alaska Native population at 1/2 mile, share
+Low access, Other/Multiple race population at 1/2 mile, number
+Low access, Other/Multiple race population at 1/2 mile, share
+Low access, Hispanic or Latino population at 1/2 mile, number
+Low access, Hispanic or Latino population at 1/2 mile, share
+Vehicle access, housing units without and low access at 1/2 mile, number
+Vehicle access, housing units without and low access at 1/2 mile, share
+Low access, housing units receiving SNAP benefits at 1/2 mile, number
+Low access, housing units receiving SNAP benefits at 1/2 mile, share
+Low access, population at 1 mile, number
+Low access, population at 1 mile, share
+Low access, low-income population at 1 mile, number
+Low access, low-income population at 1 mile, share
+Low access, children age 0-17 at 1 mile, number
+Low access, children age 0-17 at 1 mile, share
+Low access, seniors age 65+ at 1 mile, number
+Low access, seniors age 65+ at 1 mile, share
+Low access, White population at 1 mile, number
+Low access, White population at 1 mile, share
+Low access, Black or African American population at 1 mile, number
+Low access, Black or African American population at 1 mile, share
+Low access, Asian population at 1 mile, number
+Low access, Asian population at 1 mile, share
+Low access, Native Hawaiian and Other Pacific Islander population at 1 mile, number
+Low access, Native Hawaiian and Other Pacific Islander population at 1 mile, share
+Low access, American Indian and Alaska Native population at 1 mile, number
+Low access, American Indian and Alaska Native population at 1 mile, share
+Low access, Other/Multiple race population at 1 mile, number
+Low access, Other/Multiple race population at 1 mile, share
+Low access, Hispanic or Latino population at 1 mile, number
+Low access, Hispanic or Latino population at 1 mile, share
+Vehicle access, housing units without and low access at 1 mile, number
+Vehicle access, housing units without and low access at 1 mile, share
+Low access, housing units receiving SNAP benefits at 1 mile, number
+Low access, housing units receiving SNAP benefits at 1 mile, share
+Low access, population at 10 miles, number
+Low access, population at 10 miles, share
+Low access, low-income population at 10 miles, number
+Low access, low-income population at 10 miles, share
+Low access, children age 0-17 at 10 miles, number
+Low access, children age 0-17 at 10 miles, share
+Low access, seniors age 65+ at 10 miles, number
+Low access, seniors age 65+ at 10 miles, share
+Low access, White population at 10 miles, number
+Low access, White population at 10 miles, share
+Low access, Black or African American population at 10 miles, number
+Low access, Black or African American population at 10 miles, share
+Low access, Asian population at 10 miles, number
+Low access, Asian population at 10 miles, share
+Low access, Native Hawaiian and Other Pacific Islander population at 10 miles, number
+Low access, Native Hawaiian and Other Pacific Islander population at 10 miles, share
+Low access, American Indian and Alaska Native population at 10 miles, number
+Low access, American Indian and Alaska Native population at 10 miles, share
+Low access, Other/Multiple race population at 10 miles, number
+Low access, Other/Multiple race population at 10 miles, share
+Low access, Hispanic or Latino population at 10 miles, number
+Low access, Hispanic or Latino population at 10 miles, share
+Vehicle access, housing units without and low access at 10 miles, number
+Vehicle access, housing units without and low access at 10 miles, share
+Low access, housing units receiving SNAP benefits at 10 miles, number
+Low access,housing units receiving SNAP benefits at 10 miles, share
+Low access, population at 20 miles, number
+Low access, population at 20 miles, share
+Low access, low-income population at 20 miles, number
+Low access, low-income population at 20 miles, share
+Low access, children age 0-17 at 20 miles, number
+Low access, children age 0-17 at 20 miles, share
+Low access, seniors age 65+ at 20 miles, number
+Low access, seniors age 65+ at 20 miles, share
+Low access, White population at 20 miles, number
+Low access, White population at 20 miles, share
+Low access, Black or African American population at 20 miles, number
+Low access, Black or African American population at 20 miles, share
+Low access, Asian population at 20 miles, number
+Low access, Asian population at 20 miles, share
+Low access, Native Hawaiian and Other Pacific Islander population at 20 miles, number
+Low access, Native Hawaiian and Other Pacific Islander population at 20 miles, share
+Low access, American Indian and Alaska Native population at 20 miles, number
+Low access, American Indian and Alaska Native population at 20 miles, share
+Low access, Other/Multiple race population at 20 miles, number
+Low access, Other/Multiple race population at 20 miles, share
+Low access, Hispanic or Latino population at 20 miles, number
+Low access, Hispanic or Latino population at 20 miles, share
+Vehicle access, housing units without and low access at 20 miles, number
+Vehicle access, housing units without and low access at 20 miles, share
+Low access, housing units receiving SNAP benefits at 20 miles, number
+Low access, housing units receiving SNAP benefits at 20 miles, share
+Tract low-income population, number
+Tract children age 0-17, number
+Tract seniors age 65+, number
+Tract White population, number
+Tract Black or African American population, number
+Tract Asian population, number
+Tract Native Hawaiian and Other Pacific Islander population, number
+Tract American Indian and Alaska Native population, number
+Tract Other/Multiple race population, number
+Tract Hispanic or Latino population, number
+Tract housing units without a vehicle, number
+Tract housing units receiving SNAP benefits, number
