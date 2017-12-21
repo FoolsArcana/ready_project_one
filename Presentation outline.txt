@@ -1,0 +1,38 @@
+Research questions:
+How do health outcomes differ by demographic factors such as race and sex?
+How do health outcomes vary among individuals with differing access to supermarkets?
+
+>> Slide 1
+
+Overall research question:
+	How is health impacted by demographic and geographic factors in the US?
+
+>> Slide 2
+The indicators we looked at were: 
+	-Obesity/BMI
+	-Multimorbidity of weight-related illnesses
+	-Holistic self-assessment of health
+Demographics: race, sex
+Geographic factors: supermarket proximity, access to fruit/veg
+
+>> Slide 3
+Data sources: 
+	-2014 Healthy Americas Survey
+	-2015 Food Atlas
+	-2014 Community Health Status Indicators
+
+*** Individual level***
+
+Fig 1. Show both BMI distribution and bar charts, anova found sig effect of race
+	Anova: F(2,722) = 3.371, p = .0349
+Fig 2. Hispanic have fewest weight-related illnesses -- show distribution and bar charts
+Fig 3. Breakdown of disease distributions by race, multimorbidity by gender
+Fig 4. Access to fruits and veg - BMI
+
+>>>Transition: replicate things on national level
+
+*** National level***
+
+Fig 5. National breakdown - % of each race that's low access
+Fig 6. Obesity by access
+More national stuff
